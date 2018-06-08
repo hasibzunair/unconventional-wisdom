@@ -14,7 +14,7 @@ This repo contain all the files used for the bengali handwritten digit recogniti
 Using Keras, a multi-layered convolutional neural network was made based on the classic LeNet architecture. It was trained on the dataset provided. And ran on only 5 epochs with the following outputs. 
 
 - Loss: 0.3241 
-- Accuracy : 0.8938 
+- Accuracy : 0.8938 (89%)
 - Validation Loss: 0.3074 
 - Validation Accuracy: 0.8994
 
