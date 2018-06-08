@@ -26,6 +26,6 @@ Below is the predictions made on random images on the test set using this model.
 </p>
 
 
-# Competition Link 
-https://www.kaggle.com/c/numta/
+# Data Set  
+https://www.kaggle.com/c/numta/data
 
