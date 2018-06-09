@@ -11,7 +11,7 @@ This repo contain all the files used for the bengali handwritten digit recogniti
 
 # Dependencies 
 
-I have created a virtual environment in Pycharm with the necessary libraries needed. Also, all of these models are trained on CPU of Dell Inspiron 7537 with Linux distro (ubuntu 14.04 LTS) OS. 
+I have created a virtual environment in Pycharm with the necessary libraries needed. Also, all of these models are trained on CPU of Dell Inspiron 7537 with Linux distro (Ubuntu 14.04 LTS) OS. 
 
 # Results 
 
