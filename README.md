@@ -4,7 +4,7 @@
 
 This repo contain all the files used for the bengali handwritten digit recognition challenge. The files are placed in folders as follows: 
 
-- Jupyter notebooks for the codes (*codes*)
+- Jupyter notebook  (*codes*)
 - the trained models  (*models*)
 - the labelled csv file of the output acheived from the test set (*csv files*)
 - image of random digits from the test set with top three prediction labels (*results*)
