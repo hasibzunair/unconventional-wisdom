@@ -13,7 +13,7 @@ This repo contain all the files used for the bengali handwritten digit recogniti
 
 I have created a virtual environment in Pycharm with the necessary libraries needed. Also, all of these models are trained on CPU of Dell Inspiron 7537 with Linux distro (Ubuntu 14.04 LTS) OS. 
 
-# Results 
+# Results (Model with best accuracy)
 
 Using Keras, a multi-layered convolutional neural network was made based on the classic LeNet architecture. It was trained on the dataset provided. And ran on only 5 epochs with the following outputs. 
 
