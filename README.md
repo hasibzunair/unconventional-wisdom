@@ -18,7 +18,7 @@ I have created a virtual environment in Pycharm with the necessary libraries nee
 Using Keras, a multi-layered convolutional neural network was made based on the classic LeNet architecture. It was trained on the dataset provided. And ran on only 5 epochs with the following outputs. 
 
 - Loss: 0.3241 
-- Accuracy : 0.8938 (89%)
+- Accuracy : 0.8938 (89% on training set)
 - Validation Loss: 0.3074 
 - Validation Accuracy: 0.8994
 
