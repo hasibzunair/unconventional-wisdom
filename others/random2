@@ -1,0 +1,31 @@
+#plt.imshow(A_out_3)
+#plt.show()
+
+A = X_test_all[5]
+
+# different augmentation performed
+Aug1 = seq.augment_images(A.reshape(1,RESIZE_DIM,RESIZE_DIM,3))
+Aug2 = seq2.augment_images(A.reshape(1,RESIZE_DIM,RESIZE_DIM,3))
+Aug3 = seq3.augment_images(A.reshape(1,RESIZE_DIM,RESIZE_DIM,3))
+
+# different augmentation performed on an image
+A_out_1 = Aug1.reshape(RESIZE_DIM,RESIZE_DIM,3)
+X_tta.append(A_out_1)
+A_out_2 = Aug2.reshape(RESIZE_DIM,RESIZE_DIM,3)
+X_tta.append(A_out_2)
+A_out_3 = Aug3.reshape(RESIZE_DIM,RESIZE_DIM,3)
+X_tta.append(A_out_3)
+
+# different pred on aug image
+y_test1 = model.predict(A_out_1[None,:,:,:])
+y_test2 = model.predict(A_out_2[None,:,:,:])
+y_test3 = model.predict(A_out_3[None,:,:,:])
+y_test = .4*y_test1 + .2*y_test2 + .2*y_test3
+
+# select class with highest probability
+y_index = np.argmax(y_test,axis=1)
+y_index.shape
+
+
+
+

@@ -1,0 +1,14 @@
+datagen = ImageDataGenerator(zca_whitening=True)
+
+# fit parameters from data
+datagen.fit(X_train)
+
+# aug and tta diff?
+# why tta? doesnt it make prediction more difficult for an already hard image?
+
+featurewise_center=True, featurewise_std_normalization=True
+zca_whitening=True
+rotation_range=90
+width_shift_range=shift, height_shift_range=shift
+horizontal_flip=True, vertical_flip=True
+
