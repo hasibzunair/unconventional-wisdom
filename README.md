@@ -1,6 +1,6 @@
 # bengali-handwritten-digit-recognizer
 
-# Intro (Work in progress)
+# Intro
 
 This repo contain all the files used for the bengali handwritten digit recognition challenge. The files are placed in folders as follows: 
 
