@@ -2,6 +2,8 @@
 
 # Intro
 
+I participated in Bengali.AI's Kaggle Machine Learning contest where I placed 7th in the public leaderboard. Here I added some of the files used during the competition.
+
 This repo contain all the files used for the bengali handwritten digit recognition challenge. The files are placed in folders as follows: 
 
 - Jupyter notebook  (*codes*)
