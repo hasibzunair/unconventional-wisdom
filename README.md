@@ -2,7 +2,7 @@
 
 # Intro
 
-I participated in Bengali.AI's Kaggle Machine Learning contest where I placed 7th in the public leaderboard. Here I added some of the files used during the competition.
+I participated in Bengali.AI's Kaggle Machine Learning contest where I placed 6th overall. It scored 97.5% on the testing set. Here I added some of the files used during the competition. The final codes and model are not added yet.
 
 This repo contain all the files used for the bengali handwritten digit recognition challenge. The files are placed in folders as follows: 
 
