@@ -1,6 +1,8 @@
 ## What is it about?
 
-Sixth place solution to kaggle bengali handwritten digit recognition. Achieved 97.606%. A VGG16 architecture pre-trained on imagenet as a baseline with fine tuning and data augmentation. 
+Sixth place solution to kaggle bengali handwritten digit recognition. Achieved 97.606%. A VGG16 architecture pre-trained on imagenet used as a baseline with hyperparameter tuning, fine tuning intermediate layers, data augmentation and test time augmentation.
+
+The unconventional approach led to surprising results which caught Jeremy Howard's attention which he ended up [tweeting about](https://twitter.com/jeremyphoward/status/1050427625011703808)! 
 
 ## Data Set  
 * [Numta DB](https://www.kaggle.com/c/numta/data)
