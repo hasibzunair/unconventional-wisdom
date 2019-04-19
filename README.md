@@ -4,7 +4,11 @@ Sixth place solution to kaggle bengali handwritten digit recognition. Achieved 9
 
 The unconventional approach led to surprising results which caught Jeremy Howard's attention which he ended up [tweeting about](https://twitter.com/jeremyphoward/status/1050427625011703808)! 
 
-## Data Set  
+## Usage 
+
+This architecture is implemented in Python 3.6 and Keras using Tensorflow as backend.
+
+## Data set  
 * [Numta DB](https://www.kaggle.com/c/numta/data)
 
 ## Cite
