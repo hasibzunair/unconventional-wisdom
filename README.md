@@ -10,7 +10,7 @@ The unconventional approach led to surprising results which caught Jeremy Howard
 ## Cite
 
 If you find this work useful in your research, please consider citing:
-
+```
 @inproceedings{zunair2018unconventional,
   title={Unconventional Wisdom: A New Transfer Learning Approach Applied to Bengali Numeral Classification},
   author={Zunair, Hasib and Mohammed, Nabeel and Momen, Sifat},
@@ -19,5 +19,5 @@ If you find this work useful in your research, please consider citing:
   year={2018},
   organization={IEEE}
 }
-
+```
 You can also find it in IEEE Xplore Digital Library [here](https://ieeexplore.ieee.org/document/8554435)
