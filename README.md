@@ -8,6 +8,18 @@ The unconventional approach led to surprising results which caught Jeremy Howard
 
 This architecture is implemented in Python 3.6 and Keras using Tensorflow as backend.
 
+### Dependencies
+
+Tested code using:
+
+*    Ubuntu 14.04
+*    Python 3.6
+
+### Directory Structure & Usage
+* `codes`: Contains codes to final submission
+* `others`: Contains helper codes and experimental notebooks. VERY MESSY!
+
+
 ## Data set  
 * [Numta DB](https://www.kaggle.com/c/numta/data)
 
